@@ -8,7 +8,7 @@ SELECT - Go back to title screen
 
 START - Launches ball from paddle
 
-Left/Right arrows - move the paddle from left to right
+Left/Right arrows - Move the paddle from left to right
 
 Objective
 The goal of the game is to use your ball and paddle to break the bricks at the top of the screen. If you break all the bricks without running out of lives, you win the game. If you run out of lives before all the bricks are gone, you lose.
