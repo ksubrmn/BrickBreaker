@@ -18,7 +18,8 @@ Red - your paddle size decreases
 Green - your paddle size increases
 Blue - you gain a life
 
-Game Play
+# Game Play
+
 Whenever you launch the ball from the paddle, or whenever the ball bounces off the paddle, the ball will get the horizontal velocity of the paddle. For example, if the paddle moves left when the ball bounces off of it, the ball will start to move left. 
 
 Use your lives carefully. It might be good strategy to allow yourself to lose a life in order to position the ball from scratch.
