@@ -1,3 +1,7 @@
+# Objective
+
+The goal of the game is to use your ball and paddle to break the bricks at the top of the screen. If you break all the bricks without running out of lives, you win the game. If you run out of lives before all the bricks are gone, you lose.
+
 # Game Controls
 
 A - Starts game from title screen
@@ -8,11 +12,7 @@ START - Launches ball from paddle
 
 Left/Right arrows - Move the paddle from left to right
 
-# Objective
-
-The goal of the game is to use your ball and paddle to break the bricks at the top of the screen. If you break all the bricks without running out of lives, you win the game. If you run out of lives before all the bricks are gone, you lose.
-
-Brick Types
+# Brick Types
 
 Red - your paddle size decreases
 
