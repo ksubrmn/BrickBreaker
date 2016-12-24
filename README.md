@@ -3,8 +3,11 @@
 Game Controls
 
 A - Starts game from title screen
+
 SELECT - Go back to title screen
+
 START - Launches ball from paddle
+
 Left/Right arrows - move the paddle from left to right
 
 Objective
