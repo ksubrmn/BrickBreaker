@@ -21,4 +21,4 @@ Whenever you launch the ball from the paddle, or whenever the ball bounces off t
 
 Use your lives carefully. It might be good strategy to allow yourself to lose a life in order to position the ball from scratch.
 
-Note: There is no score. You either win or lose (much like real life).
+Note: There is no score. You either win or lose.
